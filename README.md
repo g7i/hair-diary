@@ -2,10 +2,12 @@
 
 #### [Deployed here](https://hair-diary.netlify.app/)
 
+----
 
-### Screenshot
-![](sample/calendar.png)
-![](sample/expanded.png)
+### Screenshots
+|         Calendar         |         Expanded         |
+|:------------------------:|:------------------------:|
+| ![](sample/calendar.png) | ![](sample/expanded.png) |
 
 ----
 
